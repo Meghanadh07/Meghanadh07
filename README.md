@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Meghanadh07
 - 👀 I’m interested in software develpoment
 - 🌱 I’m currently b.tech 3rd year student, and i'm learning java fullstack course
-- 💞️ I’m looking to collaborate on fullstack development, frontend desiner,backend developer
+- 💞️ I’m looking to collaborate on fullstack development, frontend ,backend developer 
 - 📫 How to reach me meghavangara83@gmail.com
 
 <!---
